@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "365570170044",
+    "project_id": "gas-guard-feef4",
+    "storage_bucket": "gas-guard-feef4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365570170044:android:37f561c0985d3d43cf04b9",
+        "android_client_info": {
+          "package_name": "com.example.gas_guard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtF4MDMc74kNfinoMJL1Pqfss8eag7wHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
